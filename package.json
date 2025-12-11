@@ -53,7 +53,7 @@
     "googleapis": "^160.0.0",
     "jose": "^6.1.0",
     "lucide-react": "^0.454.0",
-    "next": "^15.5.4",
+    "next": "15.5.7",
     "next-themes": "latest",
     "ogl": "^1.0.11",
     "react": "^19",
